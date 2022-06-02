@@ -1,0 +1,17 @@
+Ao clicar no botão liga Motor 1
+Ao clicar no sensor 1, para Motor 1 e liga X1 por 5 segundos
+Depois de 5 segundos liga Motor 1 e Motor 2
+Ao clicar no sensor 2 para Motor 2 e liga X2 por 3 segundos
+Depois de 3 segundos liga Motor 2 por 5 segundos e para
+
+Clicking on the button starts Engine 1
+When clicking on sensor 1, it stops Motor 1 and turns on X1 for 5 seconds
+After 5 seconds turn on Engine 1 and Engine 2
+When clicking on sensor 2 for Motor 2 and turns on X2 for 3 seconds
+After 3 seconds, turn Motor 2 on for 5 seconds and stop.
+
+
+CONFIG IP
+ 85.16.EX.EX
+XX.XX.XX.XX
+

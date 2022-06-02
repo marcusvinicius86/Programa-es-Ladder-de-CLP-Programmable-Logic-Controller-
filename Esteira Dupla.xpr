@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+  <ProjectManager>
+    <FileVersion>1.0</FileVersion>
+    <ProjectInfo>
+      <Author>Marcus V. Fernandes</Author>
+      <Index>$</Index>
+      <Service>Elétrica</Service>
+      <Owner>ATVOS URC</Owner>
+      <Comments>Ao clicar no botão liga Motor 1
+Ao clicar no sensor 1, para Motor 1 e liga X1 por 5 segundos
+Depois de 5 segundos liga Motor 1 e Motor 2
+Ao clicar no sensor 2 para Motor 2 e liga X2 por 3 segundos
+Depois de 3 segundos liga Motor 2 por 5 segundos e para</Comments>
+      <Picture>logo.bmp</Picture>
+    </ProjectInfo>
+    <ProjectHistory>
+      <Date>$</Date>
+      <Author>$</Author>
+      <Version>$</Version>
+      <Comments>$</Comments>
+      <CreateDate>30/11/2018</CreateDate>
+      <ModifyDate>30/11/2018</ModifyDate>
+    </ProjectHistory>
+    <DocumentationSettings>
+      <Print>TRUE</Print>
+      <FirstPage>
+        <PrintDate>TRUE</PrintDate>
+        <Print>TRUE</Print>
+      </FirstPage>
+      <History>
+        <Print>TRUE</Print>
+      </History>
+    </DocumentationSettings>
+    <ProjectFileList>
+      <ToolFileList instance="Twido1">
+        <ToolFile path="Twido1.xtwd">$</ToolFile>
+        <ToolFile path="Twido1.xmod">$</ToolFile>
+      </ToolFileList>
+      <ToolFileList instance="Documentation0">
+        <ToolFile path="Global.xdm">$</ToolFile>
+      </ToolFileList>
+      <ToolFileList instance="Decrire0">
+        <ToolFile path="Global.dsc.xml">$</ToolFile>
+        <ToolFile path="AS_DC35_Print.dsc.xml">$</ToolFile>
+      </ToolFileList>
+    </ProjectFileList>
+  </ProjectManager>
+
+
